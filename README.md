@@ -47,19 +47,16 @@ Como fazer meu primeiro PR - versão gamificada. (Muito bom :blush:)
 
 Sites com curadoria de issues para iniciantes
 
-- [https://github.com/camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource)
-- [https://up-for-grabs.net/#/](https://up-for-grabs.net/#/)
-- [http://issuehub.io/](http://issuehub.io/)
-- [https://www.firsttimersonly.com/](https://www.firsttimersonly.com/)
-- [http://yourfirstpr.github.io/](http://yourfirstpr.github.io/)
-- [https://github.com/mungell/awesome-for-beginners](https://github.com/mungell/awesome-for-beginners)
+- [Lista Maravilhosa de Projetos Open-Source :dancer:](https://github.com/camilatigre/listamaravilhosaopensource)
+- [Up for Grabs](https://up-for-grabs.net/#/)
+- [Issue hub](http://issuehub.io/)
+- [First Timers Only](https://www.firsttimersonly.com/)
+- [Your first PR](http://yourfirstpr.github.io/)
+- [Awesome for beginners](https://github.com/mungell/awesome-for-beginners)
 
 Mais avançados
   
-- [http://www.pullrequestroulette.com/](http://www.pullrequestroulette.com/)
-- [https://www.codetriage.com/](https://www.codetriage.com/)
-- [https://24pullrequests.com/](https://24pullrequests.com/)
-
-Repositórios com tag #hacktoberfest
-
-- [https://github.com/search?utf8=%E2%9C%93&q=state%3Aopen+label%3Ahacktoberfest&type=Issues&ref=searchresults](https://github.com/search?utf8=%E2%9C%93&q=state%3Aopen+label%3Ahacktoberfest&type=Issues&ref=searchresults)
+- [Pull Request Roulette](http://www.pullrequestroulette.com/)
+- [Code Triage](https://www.codetriage.com/)
+- [24 Pull Requests](https://24pullrequests.com/)
+- [Busca de Repositórios com tag #hacktoberfest](https://github.com/search?utf8=%E2%9C%93&q=state%3Aopen+label%3Ahacktoberfest&type=Issues&ref=searchresults)
