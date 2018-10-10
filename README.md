@@ -33,14 +33,21 @@ Hacktoberfest@Microsoft
 
 - [https://github.com/Microsoft/Hacktoberfest](https://github.com/Microsoft/Hacktoberfest)
 
-Introduction to Open-Source
+Introdução ao Open-Source
 
 - [https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+
+Como Contribuir
+
 - [https://opensource.guide/how-to-contribute/](https://opensource.guide/how-to-contribute/)
+
+Como fazer meu primeiro PR - versão gamificada. (Muito bom :blush:)
+
 - [https://www.twilio.com/quest/mission/28](https://www.twilio.com/quest/mission/28)
 
 Sites com curadoria de issues para iniciantes
 
+- [https://github.com/camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource)
 - [https://up-for-grabs.net/#/](https://up-for-grabs.net/#/)
 - [http://issuehub.io/](http://issuehub.io/)
 - [https://www.firsttimersonly.com/](https://www.firsttimersonly.com/)
