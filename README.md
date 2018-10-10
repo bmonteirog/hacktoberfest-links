@@ -12,7 +12,7 @@
 
 - Enviar 5 PR's para qualquer repositório público até dia 31 de Outubro
 - Os PR's não precisam ser aceitos/mergeados para contar
-- Muitas issues boas para iniciantes vão estar
+- Muitas issues boas para iniciantes vão estar devidamente tageadas
 
 ## Links Úteis
 
